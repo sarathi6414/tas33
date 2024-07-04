@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-content: center;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.form{
+    padding: 20px;
+    color: rgb(10, 14, 36);
+    
+}
+.input{
+    padding-right: 20px;
+    margin:10px;
+    border-color: rgb(226, 238, 179) ;
+}
+.inpu{
+    border-radius: 10px;
+    border-color: rgb(226, 238, 179) ;
+    padding-right: 20px;
+    margin:10px;
+}
+.inpu:hover{
+    color: rgb(162, 228, 241);
+    background-color: rgb(55, 193, 135);
+}
+input{
+    margin-bottom: 15px;
+    padding: 3px;
+}
